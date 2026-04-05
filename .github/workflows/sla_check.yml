@@ -1,0 +1,31 @@
+name: TA Help Scout Alert System
+
+# Run every 3 hours
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # Runs at :00 every 3 hours (UTC)
+  workflow_dispatch:          # Allows us to run it manually from GitHub too
+
+jobs:
+  sla-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run SLA Monitor
+        env:
+          HELPSCOUT_APP_ID: ${{ secrets.HELPSCOUT_APP_ID }}
+          HELPSCOUT_APP_SECRET: ${{ secrets.HELPSCOUT_APP_SECRET }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLA_THRESHOLD_HOURS: ${{ secrets.SLA_THRESHOLD_HOURS }}
+        run: python sla_monitor.py

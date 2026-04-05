@@ -1,0 +1,1900 @@
+[
+  {
+    "timestamp": "2026-04-05T20:25:26.894248+00:00",
+    "sla_threshold_hours": 1.0,
+    "total_breaches": 68,
+    "tickets": [
+      {
+        "subject": "Re: ACCT6318 - Fall 2, 2025",
+        "student_name": "Sarah Pelletier",
+        "course_tag": "No course tag",
+        "wait_hours": 2236.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3186576698,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407: Unable to access all articles",
+        "student_name": "Rebecca Cohen",
+        "course_tag": "No course tag",
+        "wait_hours": 2089.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3192767671,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1904.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200518783,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Extension Request Due to Medical Emergency \u2013 EEBA6406",
+        "student_name": "Nicole Balewa",
+        "course_tag": "No course tag",
+        "wait_hours": 1904.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200523319,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407 \u2014 Brand Development and Advertising Application",
+        "student_name": "Jane Macmillan",
+        "course_tag": "No course tag",
+        "wait_hours": 1844.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202376126,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1840.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202476181,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1727.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3207868716,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 Questions & Review of Templates #3 Persona",
+        "student_name": "Necole Cherovsky",
+        "course_tag": "No course tag",
+        "wait_hours": 1576.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3214243340,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1557.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3215175989,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1510.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216400235,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 assignment this week",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 1507.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216499413,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1503.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216623055,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1503.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216624493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Confirmation - OMSM Extension Requests",
+        "student_name": "Deidre Scott",
+        "course_tag": "No course tag",
+        "wait_hours": 1476.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3217977677,
+        "all_tags": []
+      },
+      {
+        "subject": "Fw: Meeting to discuss project for HINF6404",
+        "student_name": "Emily Smith",
+        "course_tag": "No course tag",
+        "wait_hours": 1365.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223084926,
+        "all_tags": []
+      },
+      {
+        "subject": "Assignment submission for HINF 6404",
+        "student_name": "Lara Roche-Sudar",
+        "course_tag": "No course tag",
+        "wait_hours": 1341.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223622946,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1338.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223689537,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1336.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223758406,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1335.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223769527,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404 Module 5 - EM/DSS Methods/Techniques Template",
+        "student_name": "Graham Hughes",
+        "course_tag": "No course tag",
+        "wait_hours": 1335.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223774409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404: Module 4 Discussion - Grade Inquiry",
+        "student_name": "Natalie Savat",
+        "course_tag": "No course tag",
+        "wait_hours": 1269.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3227151877,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics",
+        "student_name": "Lisa Bandstra",
+        "course_tag": "No course tag",
+        "wait_hours": 1150.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3231744278,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 - 7 \u2014 Final Project Discussion [Peer Review]",
+        "student_name": "Hema Mahase",
+        "course_tag": "No course tag",
+        "wait_hours": 1110.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3233520409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: FW: INNO6227 \u2014 Digital Bias in Business",
+        "student_name": "Stephanie Brendsel",
+        "course_tag": "No course tag",
+        "wait_hours": 1080.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235105864,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics  - Final Assignment Submission",
+        "student_name": "Krishna Unadkat",
+        "course_tag": "No course tag",
+        "wait_hours": 1071.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235482429,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407",
+        "student_name": "William Strobeck",
+        "course_tag": "No course tag",
+        "wait_hours": 1026.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3237016251,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 Assignment 2 Grade",
+        "student_name": "Jarrett Tyler",
+        "course_tag": "No course tag",
+        "wait_hours": 964.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3239412647,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: STRT6318 grade",
+        "student_name": "Aniruddha Prakash",
+        "course_tag": "No course tag",
+        "wait_hours": 913.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3242089955,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Spring 1 Grades",
+        "student_name": "D'amore-McKim Online Mba",
+        "course_tag": "No course tag",
+        "wait_hours": 821.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245415493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404 Grade question - missing final project grade",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 815.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245937077,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6406 Grade",
+        "student_name": "Jeremy Marshall",
+        "course_tag": "No course tag",
+        "wait_hours": 653.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3252494860,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318: Module 1 Focus & Prioritization",
+        "student_name": "Rayner Jae Liu",
+        "course_tag": "No course tag",
+        "wait_hours": 598.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3255683108,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: ACCT6318 Course Structure",
+        "student_name": "Zuzanna Sochaczewska",
+        "course_tag": "No course tag",
+        "wait_hours": 560.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3257499625,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA 6409",
+        "student_name": "Gina Fonseca",
+        "course_tag": "No course tag",
+        "wait_hours": 534.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3258587632,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405.39905.202630",
+        "student_name": "Emma Whitman",
+        "course_tag": "No course tag",
+        "wait_hours": 478.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3260674159,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 question",
+        "student_name": "Corinne Ayoub",
+        "course_tag": "No course tag",
+        "wait_hours": 366.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3265660744,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 330.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3266553921,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6409 Discussion Post 1",
+        "student_name": "Chris Bannon",
+        "course_tag": "No course tag",
+        "wait_hours": 315.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267256619,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 314.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267322796,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Grade Distribution",
+        "student_name": "Anna Wang",
+        "course_tag": "No course tag",
+        "wait_hours": 290.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3268576296,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 Module 3 Assignment Submission Issue",
+        "student_name": "Kathleen Deabill",
+        "course_tag": "No course tag",
+        "wait_hours": 143.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274719903,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 - Question about presentation for Salesforce Sales Dashboard",
+        "student_name": "Jacinda Eng",
+        "course_tag": "No course tag",
+        "wait_hours": 140.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274889700,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318 Grade",
+        "student_name": "Zuzanna Sochaczewska",
+        "course_tag": "No course tag",
+        "wait_hours": 120.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3275927558,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: New Extension Request",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 97.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277179172,
+        "all_tags": [
+          "ai cert",
+          "extension request"
+        ]
+      },
+      {
+        "subject": "MGMT 6214: Negotiations Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 97.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277184576,
+        "all_tags": []
+      },
+      {
+        "subject": "MGMT 6214 | Negotiations",
+        "student_name": "Cheryl Formento",
+        "course_tag": "No course tag",
+        "wait_hours": 93.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277387433,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405",
+        "student_name": "Madison Mello",
+        "course_tag": "No course tag",
+        "wait_hours": 92.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277453894,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318: Case Study: Asante Teaching Hospital",
+        "student_name": "Sidney Alexandre",
+        "course_tag": "No course tag",
+        "wait_hours": 73.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278354774,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6401",
+        "student_name": "Dan Elman",
+        "course_tag": "No course tag",
+        "wait_hours": 71.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278504915,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 - Spring 2 2026 assignment grading questions",
+        "student_name": "Cristin Dobrowolski",
+        "course_tag": "No course tag",
+        "wait_hours": 68.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278624509,
+        "all_tags": []
+      },
+      {
+        "subject": "SCHM6223 Critical Path Model Format Question",
+        "student_name": "Caitessa Venables",
+        "course_tag": "No course tag",
+        "wait_hours": 66.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278683858,
+        "all_tags": []
+      },
+      {
+        "subject": "Module 3: Final Project: Project Plan",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 66.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278692384,
+        "all_tags": []
+      },
+      {
+        "subject": "BUSN 6402 Survey Wrong",
+        "student_name": "Gerald Arensbach",
+        "course_tag": "No course tag",
+        "wait_hours": 59.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278914896,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Politico-Legal Data Analytics Exercise Assignment",
+        "student_name": "Stefan Sawadsky",
+        "course_tag": "No course tag",
+        "wait_hours": 56.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278991554,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 54.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279123933,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6405 grade question",
+        "student_name": "Terra Dunham",
+        "course_tag": "No course tag",
+        "wait_hours": 54.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279131864,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 Critical Path Model Format Question",
+        "student_name": "Gilbert Nyaga",
+        "course_tag": "No course tag",
+        "wait_hours": 50.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279378259,
+        "all_tags": []
+      },
+      {
+        "subject": "Sustainability Management: Net Zero Submission",
+        "student_name": "Liam Mahoney",
+        "course_tag": "No course tag",
+        "wait_hours": 45.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279587473,
+        "all_tags": []
+      },
+      {
+        "subject": "Submission Posted: 3 \u2013 Final Project: Project Plan [Group], EEBA6409 39904 Stat Success Internlztn SEC 01 Spring 2026 [VTL-2B-OL]",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 40.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279741703,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 32.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279945930,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 Milestone #2 Feedback",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "DADS6700",
+        "wait_hours": 28.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280084933,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "Homework 5 Map Reduce Queries in Playground",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "No course tag",
+        "wait_hours": 25.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280195240,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6409 - Extension request",
+        "student_name": "Leor Abettan",
+        "course_tag": "No course tag",
+        "wait_hours": 19.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280340186,
+        "all_tags": []
+      },
+      {
+        "subject": "A New Extension Request Submitted!",
+        "student_name": "Katie Freedman",
+        "course_tag": "DADS6700",
+        "wait_hours": 13.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280462675,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "EEBA 6405 - M4 Teammate Evaluation",
+        "student_name": "Sara Cordova",
+        "course_tag": "No course tag",
+        "wait_hours": 6.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280627469,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 -- Homework #5 Data Acquisition Issues",
+        "student_name": "Zachary Haley",
+        "course_tag": "DADS6700",
+        "wait_hours": 3.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280699990,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 2.4,
+        "severity": "\ud83d\udfe0",
+        "conversation_id": 3280730841,
+        "all_tags": []
+      },
+      {
+        "subject": "A New Extension Request Submitted!",
+        "student_name": "Katie Freedman",
+        "course_tag": "DADS6400",
+        "wait_hours": 1.8,
+        "severity": "\ud83d\udfe1",
+        "conversation_id": 3280746720,
+        "all_tags": [
+          "coe",
+          "dads6400",
+          "dads6600",
+          "msdae"
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T20:26:09.726875+00:00",
+    "sla_threshold_hours": 1.0,
+    "total_breaches": 68,
+    "tickets": [
+      {
+        "subject": "Re: ACCT6318 - Fall 2, 2025",
+        "student_name": "Sarah Pelletier",
+        "course_tag": "No course tag",
+        "wait_hours": 2236.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3186576698,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407: Unable to access all articles",
+        "student_name": "Rebecca Cohen",
+        "course_tag": "No course tag",
+        "wait_hours": 2089.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3192767671,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1904.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200518783,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Extension Request Due to Medical Emergency \u2013 EEBA6406",
+        "student_name": "Nicole Balewa",
+        "course_tag": "No course tag",
+        "wait_hours": 1904.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200523319,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407 \u2014 Brand Development and Advertising Application",
+        "student_name": "Jane Macmillan",
+        "course_tag": "No course tag",
+        "wait_hours": 1844.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202376126,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1840.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202476181,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1727.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3207868716,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 Questions & Review of Templates #3 Persona",
+        "student_name": "Necole Cherovsky",
+        "course_tag": "No course tag",
+        "wait_hours": 1576.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3214243340,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1557.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3215175989,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1510.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216400235,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 assignment this week",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 1507.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216499413,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1503.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216623055,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1503.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216624493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Confirmation - OMSM Extension Requests",
+        "student_name": "Deidre Scott",
+        "course_tag": "No course tag",
+        "wait_hours": 1476.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3217977677,
+        "all_tags": []
+      },
+      {
+        "subject": "Fw: Meeting to discuss project for HINF6404",
+        "student_name": "Emily Smith",
+        "course_tag": "No course tag",
+        "wait_hours": 1365.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223084926,
+        "all_tags": []
+      },
+      {
+        "subject": "Assignment submission for HINF 6404",
+        "student_name": "Lara Roche-Sudar",
+        "course_tag": "No course tag",
+        "wait_hours": 1341.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223622946,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1338.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223689537,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1336.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223758406,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1335.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223769527,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404 Module 5 - EM/DSS Methods/Techniques Template",
+        "student_name": "Graham Hughes",
+        "course_tag": "No course tag",
+        "wait_hours": 1335.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223774409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404: Module 4 Discussion - Grade Inquiry",
+        "student_name": "Natalie Savat",
+        "course_tag": "No course tag",
+        "wait_hours": 1269.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3227151877,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics",
+        "student_name": "Lisa Bandstra",
+        "course_tag": "No course tag",
+        "wait_hours": 1150.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3231744278,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 - 7 \u2014 Final Project Discussion [Peer Review]",
+        "student_name": "Hema Mahase",
+        "course_tag": "No course tag",
+        "wait_hours": 1110.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3233520409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: FW: INNO6227 \u2014 Digital Bias in Business",
+        "student_name": "Stephanie Brendsel",
+        "course_tag": "No course tag",
+        "wait_hours": 1080.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235105864,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics  - Final Assignment Submission",
+        "student_name": "Krishna Unadkat",
+        "course_tag": "No course tag",
+        "wait_hours": 1071.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235482429,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407",
+        "student_name": "William Strobeck",
+        "course_tag": "No course tag",
+        "wait_hours": 1026.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3237016251,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 Assignment 2 Grade",
+        "student_name": "Jarrett Tyler",
+        "course_tag": "No course tag",
+        "wait_hours": 964.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3239412647,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: STRT6318 grade",
+        "student_name": "Aniruddha Prakash",
+        "course_tag": "No course tag",
+        "wait_hours": 913.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3242089955,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Spring 1 Grades",
+        "student_name": "D'amore-McKim Online Mba",
+        "course_tag": "No course tag",
+        "wait_hours": 821.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245415493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404 Grade question - missing final project grade",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 815.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245937077,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6406 Grade",
+        "student_name": "Jeremy Marshall",
+        "course_tag": "No course tag",
+        "wait_hours": 653.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3252494860,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318: Module 1 Focus & Prioritization",
+        "student_name": "Rayner Jae Liu",
+        "course_tag": "No course tag",
+        "wait_hours": 598.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3255683108,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: ACCT6318 Course Structure",
+        "student_name": "Zuzanna Sochaczewska",
+        "course_tag": "No course tag",
+        "wait_hours": 560.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3257499625,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA 6409",
+        "student_name": "Gina Fonseca",
+        "course_tag": "No course tag",
+        "wait_hours": 534.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3258587632,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405.39905.202630",
+        "student_name": "Emma Whitman",
+        "course_tag": "No course tag",
+        "wait_hours": 478.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3260674159,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 question",
+        "student_name": "Corinne Ayoub",
+        "course_tag": "No course tag",
+        "wait_hours": 366.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3265660744,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 330.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3266553921,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6409 Discussion Post 1",
+        "student_name": "Chris Bannon",
+        "course_tag": "No course tag",
+        "wait_hours": 315.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267256619,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 314.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267322796,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Grade Distribution",
+        "student_name": "Anna Wang",
+        "course_tag": "No course tag",
+        "wait_hours": 290.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3268576296,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 Module 3 Assignment Submission Issue",
+        "student_name": "Kathleen Deabill",
+        "course_tag": "No course tag",
+        "wait_hours": 143.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274719903,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 - Question about presentation for Salesforce Sales Dashboard",
+        "student_name": "Jacinda Eng",
+        "course_tag": "No course tag",
+        "wait_hours": 140.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274889700,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318 Grade",
+        "student_name": "Zuzanna Sochaczewska",
+        "course_tag": "No course tag",
+        "wait_hours": 120.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3275927558,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: New Extension Request",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 97.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277179172,
+        "all_tags": [
+          "ai cert",
+          "extension request"
+        ]
+      },
+      {
+        "subject": "MGMT 6214: Negotiations Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 97.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277184576,
+        "all_tags": []
+      },
+      {
+        "subject": "MGMT 6214 | Negotiations",
+        "student_name": "Cheryl Formento",
+        "course_tag": "No course tag",
+        "wait_hours": 93.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277387433,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405",
+        "student_name": "Madison Mello",
+        "course_tag": "No course tag",
+        "wait_hours": 92.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277453894,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318: Case Study: Asante Teaching Hospital",
+        "student_name": "Sidney Alexandre",
+        "course_tag": "No course tag",
+        "wait_hours": 73.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278354774,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6401",
+        "student_name": "Dan Elman",
+        "course_tag": "No course tag",
+        "wait_hours": 71.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278504915,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 - Spring 2 2026 assignment grading questions",
+        "student_name": "Cristin Dobrowolski",
+        "course_tag": "No course tag",
+        "wait_hours": 68.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278624509,
+        "all_tags": []
+      },
+      {
+        "subject": "SCHM6223 Critical Path Model Format Question",
+        "student_name": "Caitessa Venables",
+        "course_tag": "No course tag",
+        "wait_hours": 66.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278683858,
+        "all_tags": []
+      },
+      {
+        "subject": "Module 3: Final Project: Project Plan",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 66.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278692384,
+        "all_tags": []
+      },
+      {
+        "subject": "BUSN 6402 Survey Wrong",
+        "student_name": "Gerald Arensbach",
+        "course_tag": "No course tag",
+        "wait_hours": 59.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278914896,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Politico-Legal Data Analytics Exercise Assignment",
+        "student_name": "Stefan Sawadsky",
+        "course_tag": "No course tag",
+        "wait_hours": 56.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278991554,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 54.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279123933,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6405 grade question",
+        "student_name": "Terra Dunham",
+        "course_tag": "No course tag",
+        "wait_hours": 54.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279131864,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 Critical Path Model Format Question",
+        "student_name": "Gilbert Nyaga",
+        "course_tag": "No course tag",
+        "wait_hours": 50.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279378259,
+        "all_tags": []
+      },
+      {
+        "subject": "Sustainability Management: Net Zero Submission",
+        "student_name": "Liam Mahoney",
+        "course_tag": "No course tag",
+        "wait_hours": 45.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279587473,
+        "all_tags": []
+      },
+      {
+        "subject": "Submission Posted: 3 \u2013 Final Project: Project Plan [Group], EEBA6409 39904 Stat Success Internlztn SEC 01 Spring 2026 [VTL-2B-OL]",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 40.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279741703,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 32.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279945930,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 Milestone #2 Feedback",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "DADS6700",
+        "wait_hours": 28.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280084933,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "Homework 5 Map Reduce Queries in Playground",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "No course tag",
+        "wait_hours": 25.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280195240,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6409 - Extension request",
+        "student_name": "Leor Abettan",
+        "course_tag": "No course tag",
+        "wait_hours": 19.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280340186,
+        "all_tags": []
+      },
+      {
+        "subject": "A New Extension Request Submitted!",
+        "student_name": "Katie Freedman",
+        "course_tag": "DADS6700",
+        "wait_hours": 13.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280462675,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "EEBA 6405 - M4 Teammate Evaluation",
+        "student_name": "Sara Cordova",
+        "course_tag": "No course tag",
+        "wait_hours": 6.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280627469,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 -- Homework #5 Data Acquisition Issues",
+        "student_name": "Zachary Haley",
+        "course_tag": "DADS6700",
+        "wait_hours": 3.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280699990,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 2.4,
+        "severity": "\ud83d\udfe0",
+        "conversation_id": 3280730841,
+        "all_tags": []
+      },
+      {
+        "subject": "A New Extension Request Submitted!",
+        "student_name": "Katie Freedman",
+        "course_tag": "DADS6400",
+        "wait_hours": 1.9,
+        "severity": "\ud83d\udfe1",
+        "conversation_id": 3280746720,
+        "all_tags": [
+          "coe",
+          "dads6400",
+          "dads6600",
+          "msdae"
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-05T21:41:39.630568+00:00",
+    "sla_threshold_hours": 1.0,
+    "total_breaches": 66,
+    "tickets": [
+      {
+        "subject": "Re: ACCT6318 - Fall 2, 2025",
+        "student_name": "Sarah Pelletier",
+        "course_tag": "No course tag",
+        "wait_hours": 2238.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3186576698,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407: Unable to access all articles",
+        "student_name": "Rebecca Cohen",
+        "course_tag": "No course tag",
+        "wait_hours": 2090.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3192767671,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1906.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200518783,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Extension Request Due to Medical Emergency \u2013 EEBA6406",
+        "student_name": "Nicole Balewa",
+        "course_tag": "No course tag",
+        "wait_hours": 1906.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3200523319,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407 \u2014 Brand Development and Advertising Application",
+        "student_name": "Jane Macmillan",
+        "course_tag": "No course tag",
+        "wait_hours": 1845.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202376126,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1842.0,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3202476181,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1728.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3207868716,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 Questions & Review of Templates #3 Persona",
+        "student_name": "Necole Cherovsky",
+        "course_tag": "No course tag",
+        "wait_hours": 1577.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3214243340,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1558.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3215175989,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1512.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216400235,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF6404 assignment this week",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 1509.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216499413,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1504.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216623055,
+        "all_tags": []
+      },
+      {
+        "subject": "MISM 6200: Introduction to Business Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1504.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3216624493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Confirmation - OMSM Extension Requests",
+        "student_name": "Deidre Scott",
+        "course_tag": "No course tag",
+        "wait_hours": 1477.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3217977677,
+        "all_tags": []
+      },
+      {
+        "subject": "Fw: Meeting to discuss project for HINF6404",
+        "student_name": "Emily Smith",
+        "course_tag": "No course tag",
+        "wait_hours": 1366.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223084926,
+        "all_tags": []
+      },
+      {
+        "subject": "Assignment submission for HINF 6404",
+        "student_name": "Lara Roche-Sudar",
+        "course_tag": "No course tag",
+        "wait_hours": 1342.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223622946,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1340.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223689537,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 1337.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223758406,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 6404: Patient Engagement Informatics and Analytics Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 1336.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223769527,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404 Module 5 - EM/DSS Methods/Techniques Template",
+        "student_name": "Graham Hughes",
+        "course_tag": "No course tag",
+        "wait_hours": 1336.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3223774409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404: Module 4 Discussion - Grade Inquiry",
+        "student_name": "Natalie Savat",
+        "course_tag": "No course tag",
+        "wait_hours": 1270.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3227151877,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics",
+        "student_name": "Lisa Bandstra",
+        "course_tag": "No course tag",
+        "wait_hours": 1151.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3231744278,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 - 7 \u2014 Final Project Discussion [Peer Review]",
+        "student_name": "Hema Mahase",
+        "course_tag": "No course tag",
+        "wait_hours": 1111.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3233520409,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: FW: INNO6227 \u2014 Digital Bias in Business",
+        "student_name": "Stephanie Brendsel",
+        "course_tag": "No course tag",
+        "wait_hours": 1081.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235105864,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF6404: Patient Engagement Informatics and Analytics  - Final Assignment Submission",
+        "student_name": "Krishna Unadkat",
+        "course_tag": "No course tag",
+        "wait_hours": 1072.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3235482429,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6407",
+        "student_name": "William Strobeck",
+        "course_tag": "No course tag",
+        "wait_hours": 1027.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3237016251,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6406 Assignment 2 Grade",
+        "student_name": "Jarrett Tyler",
+        "course_tag": "No course tag",
+        "wait_hours": 965.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3239412647,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: STRT6318 grade",
+        "student_name": "Aniruddha Prakash",
+        "course_tag": "No course tag",
+        "wait_hours": 914.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3242089955,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: Spring 1 Grades",
+        "student_name": "D'amore-McKim Online Mba",
+        "course_tag": "No course tag",
+        "wait_hours": 823.2,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245415493,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: HINF 6404 Grade question - missing final project grade",
+        "student_name": "Maggie Scheel",
+        "course_tag": "No course tag",
+        "wait_hours": 816.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3245937077,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6406 Grade",
+        "student_name": "Jeremy Marshall",
+        "course_tag": "No course tag",
+        "wait_hours": 655.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3252494860,
+        "all_tags": []
+      },
+      {
+        "subject": "ACCT6318: Module 1 Focus & Prioritization",
+        "student_name": "Rayner Jae Liu",
+        "course_tag": "No course tag",
+        "wait_hours": 599.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3255683108,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: ACCT6318 Course Structure",
+        "student_name": "Zuzanna Sochaczewska",
+        "course_tag": "No course tag",
+        "wait_hours": 562.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3257499625,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA 6409",
+        "student_name": "Gina Fonseca",
+        "course_tag": "No course tag",
+        "wait_hours": 535.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3258587632,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405.39905.202630",
+        "student_name": "Emma Whitman",
+        "course_tag": "No course tag",
+        "wait_hours": 479.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3260674159,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 question",
+        "student_name": "Corinne Ayoub",
+        "course_tag": "No course tag",
+        "wait_hours": 367.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3265660744,
+        "all_tags": []
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 331.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3266553921,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6409 Discussion Post 1",
+        "student_name": "Chris Bannon",
+        "course_tag": "No course tag",
+        "wait_hours": 316.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267256619,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 315.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3267322796,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Grade Distribution",
+        "student_name": "Anna Wang",
+        "course_tag": "No course tag",
+        "wait_hours": 291.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3268576296,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 Module 3 Assignment Submission Issue",
+        "student_name": "Kathleen Deabill",
+        "course_tag": "No course tag",
+        "wait_hours": 144.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274719903,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405 - Question about presentation for Salesforce Sales Dashboard",
+        "student_name": "Jacinda Eng",
+        "course_tag": "No course tag",
+        "wait_hours": 141.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3274889700,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: New Extension Request",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 98.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277179172,
+        "all_tags": [
+          "ai cert",
+          "extension request"
+        ]
+      },
+      {
+        "subject": "MGMT 6214: Negotiations Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 98.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277184576,
+        "all_tags": []
+      },
+      {
+        "subject": "MGMT 6214 | Negotiations",
+        "student_name": "Cheryl Formento",
+        "course_tag": "No course tag",
+        "wait_hours": 94.9,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277387433,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6405",
+        "student_name": "Madison Mello",
+        "course_tag": "No course tag",
+        "wait_hours": 93.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3277453894,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: EEBA6401",
+        "student_name": "Dan Elman",
+        "course_tag": "No course tag",
+        "wait_hours": 72.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278504915,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 - Spring 2 2026 assignment grading questions",
+        "student_name": "Cristin Dobrowolski",
+        "course_tag": "No course tag",
+        "wait_hours": 69.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278624509,
+        "all_tags": []
+      },
+      {
+        "subject": "SCHM6223 Critical Path Model Format Question",
+        "student_name": "Caitessa Venables",
+        "course_tag": "No course tag",
+        "wait_hours": 67.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278683858,
+        "all_tags": []
+      },
+      {
+        "subject": "Module 3: Final Project: Project Plan",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 67.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278692384,
+        "all_tags": []
+      },
+      {
+        "subject": "BUSN 6402 Survey Wrong",
+        "student_name": "Gerald Arensbach",
+        "course_tag": "No course tag",
+        "wait_hours": 60.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278914896,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA6409 - Politico-Legal Data Analytics Exercise Assignment",
+        "student_name": "Stefan Sawadsky",
+        "course_tag": "No course tag",
+        "wait_hours": 58.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3278991554,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6405 grade question",
+        "student_name": "Terra Dunham",
+        "course_tag": "No course tag",
+        "wait_hours": 55.4,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279131864,
+        "all_tags": []
+      },
+      {
+        "subject": "Re: SCHM6223 Critical Path Model Format Question",
+        "student_name": "Gilbert Nyaga",
+        "course_tag": "No course tag",
+        "wait_hours": 51.5,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279378259,
+        "all_tags": []
+      },
+      {
+        "subject": "Sustainability Management: Net Zero Submission",
+        "student_name": "Liam Mahoney",
+        "course_tag": "No course tag",
+        "wait_hours": 47.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279587473,
+        "all_tags": []
+      },
+      {
+        "subject": "Submission Posted: 3 \u2013 Final Project: Project Plan [Group], EEBA6409 39904 Stat Success Internlztn SEC 01 Spring 2026 [VTL-2B-OL]",
+        "student_name": "Alexis Cook",
+        "course_tag": "No course tag",
+        "wait_hours": 41.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279741703,
+        "all_tags": []
+      },
+      {
+        "subject": "HINF 5101: Introduction to Health Informatics and Health Information Systems Request from Student for Extension",
+        "student_name": "Leslie Harwood",
+        "course_tag": "No course tag",
+        "wait_hours": 34.1,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3279945930,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 Milestone #2 Feedback",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "DADS6700",
+        "wait_hours": 29.8,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280084933,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "Homework 5 Map Reduce Queries in Playground",
+        "student_name": "Hasiba Zandi",
+        "course_tag": "No course tag",
+        "wait_hours": 26.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280195240,
+        "all_tags": []
+      },
+      {
+        "subject": "EEBA 6409 - Extension request",
+        "student_name": "Leor Abettan",
+        "course_tag": "No course tag",
+        "wait_hours": 20.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280340186,
+        "all_tags": []
+      },
+      {
+        "subject": "A New Extension Request Submitted!",
+        "student_name": "Katie Freedman",
+        "course_tag": "DADS6700",
+        "wait_hours": 14.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280462675,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "EEBA 6405 - M4 Teammate Evaluation",
+        "student_name": "Sara Cordova",
+        "course_tag": "No course tag",
+        "wait_hours": 7.3,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280627469,
+        "all_tags": []
+      },
+      {
+        "subject": "DADS6700 -- Homework #5 Data Acquisition Issues",
+        "student_name": "Zachary Haley",
+        "course_tag": "DADS6700",
+        "wait_hours": 4.6,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280699990,
+        "all_tags": [
+          "coe",
+          "dads6700",
+          "msdae"
+        ]
+      },
+      {
+        "subject": "New Extension Request in Online MBA Course",
+        "student_name": "Morgan Gorman",
+        "course_tag": "No course tag",
+        "wait_hours": 3.7,
+        "severity": "\ud83d\udd34",
+        "conversation_id": 3280730841,
+        "all_tags": []
+      },
+      {
+        "subject": "INFO5100 - Final Project Questions",
+        "student_name": "Cohen Powell",
+        "course_tag": "INFO5100",
+        "wait_hours": 1.9,
+        "severity": "\ud83d\udfe1",
+        "conversation_id": 3280780474,
+        "all_tags": [
+          "coe",
+          "info5100",
+          "msis"
+        ]
+      },
+      {
+        "subject": "Re: FINA6318 Check In",
+        "student_name": "Meghla Srabon",
+        "course_tag": "No course tag",
+        "wait_hours": 1.8,
+        "severity": "\ud83d\udfe1",
+        "conversation_id": 3280783660,
+        "all_tags": []
+      }
+    ]
+  }
+]
