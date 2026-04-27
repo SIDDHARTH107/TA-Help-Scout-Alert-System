@@ -27,8 +27,8 @@ def get_access_token():
     )
     
     # Debug: See the actual error message
-    print(f"Status Code: {response.status_code}")
-    print(f"Response Body: {response.text}")
+    # print(f"Status Code: {response.status_code}")
+    # print(f"Response Body: {response.text}")
     
     response.raise_for_status()
     token = response.json()["access_token"]
