@@ -10,7 +10,7 @@ As a Teaching Assistant at Northeastern University, our TA team manages **70+ st
 
 - Tickets would sit unanswered for **10–18 hours** because no one was actively tracking them
 - TAs only saw tickets when they **manually opened Help Scout**
-- During busy weeks (midterms, project deadlines), tickets **fell through the cracks**
+- During busy weeks (project deadlines), tickets **mostly goes unanswered because of unavailability of TAs**
 - There was **no system** to flag overdue tickets or alert the team
 
 ## 💡 Solution
