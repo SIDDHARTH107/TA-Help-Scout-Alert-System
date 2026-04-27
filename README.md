@@ -186,4 +186,4 @@ Each alert includes:
 - Teaching Assistant, Innovation Lab - JM @Northeastern University EDGE department
 - Master's in Data Analytics Engineering, Northeastern University
 - [GitHub](https://github.com/SIDDHARTH107)
-- [LinkedIn](https://www.linkedin.com/in/siddharth-mohapatra/)
+- [LinkedIn](https://www.linkedin.com/in/siddharthmohapatra-dataanalyst/)
