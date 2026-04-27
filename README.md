@@ -180,21 +180,10 @@ Each alert includes:
 - **Wait time** — hours since ticket was created
 - **Severity indicator** — color-coded based on how far past the SLA threshold
 
-## 🔮 Future Enhancements
-
-- [ ] Streamlit dashboard for visual ticket monitoring and SLA analytics
-- [ ] Help Scout Webhooks for real-time alerts (instead of polling)
-- [ ] Weekly summary report with response time trends
-- [ ] Auto-assignment suggestions based on TA workload and course tags
-- [ ] Semester handoff report generation
-
 ## 👤 Author
 
 **Siddharth Mohapatra**
+- Teaching Assistant, Innovation Lab - JM @Northeastern University EDGE department
 - Master's in Data Analytics Engineering, Northeastern University
 - [GitHub](https://github.com/SIDDHARTH107)
 - [LinkedIn](https://www.linkedin.com/in/siddharth-mohapatra/)
-
-## 📄 License
-
-This project is for educational and internal use as part of TA operations at Northeastern University.
