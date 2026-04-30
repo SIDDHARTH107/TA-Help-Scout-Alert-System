@@ -17,6 +17,12 @@ As a Teaching Assistant at Northeastern University, our TA team manages **70+ st
 
 A lightweight Python automation that runs every 3 hours via GitHub Actions, checks all open Help Scout tickets, and sends a Slack alert to the TA team whenever tickets exceed the SLA threshold — **without any manual effort**.
 
+### Sample Screenshots
+
+<img width="1529" height="698" alt="image" src="https://github.com/user-attachments/assets/b1262ace-909b-4cdb-a104-42072dcaaee6" />
+
+<img width="1875" height="859" alt="image" src="https://github.com/user-attachments/assets/d7dea226-93cb-4e7b-8228-fae8b0c884a2" />
+
 ### Sample Slack Alert
 
 ```
