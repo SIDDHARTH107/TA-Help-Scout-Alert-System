@@ -4,7 +4,7 @@ An automated SLA monitoring and alert pipeline that tracks student support ticke
 
 ---
 
-## 📌 Problem
+## Problem
 
 As a Teaching Assistant at Northeastern University, our TA team manages **70+ student support tickets** across **5+ courses** using Help Scout. The challenge:
 
@@ -13,7 +13,7 @@ As a Teaching Assistant at Northeastern University, our TA team manages **70+ st
 - During busy weeks (project deadlines), tickets **mostly goes unanswered because of unavailability of TAs**
 - There was **no system** to flag overdue tickets or alert the team
 
-## 💡 Solution
+## Solution
 
 A lightweight Python automation that runs every 3 hours via GitHub Actions, checks all open Help Scout tickets, and sends a Slack alert to the TA team whenever tickets exceed the SLA threshold — **without any manual effort**.
 
@@ -58,7 +58,7 @@ Threshold: 1.0 hour(s)
 🕐 Alert generated at: 2026-04-13 21:44 UTC
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 GitHub Actions (scheduled cron job - every 3 hours)
@@ -80,7 +80,7 @@ Python Script (sla_monitor.py)
     └──► Save alert log (JSON) for historical tracking
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -92,7 +92,7 @@ Python Script (sla_monitor.py)
 | Config | python-dotenv | Environment variable management |
 | Logging | JSON file | Alert history tracking |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TA-Help-Scout-Alert-System/
@@ -108,7 +108,7 @@ TA-Help-Scout-Alert-System/
 └── README.md
 ```
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 
@@ -169,7 +169,7 @@ Add the following as **Repository Secrets** in GitHub (Settings → Secrets → 
 
 The workflow runs automatically every 3 hours. To trigger manually: **Actions → TA Help Scout Alert System → Run workflow**.
 
-## ⚙️ Configuration
+## Configuration
 
 | Variable | Description | Default |
 |----------|-------------|---------|
@@ -184,7 +184,7 @@ The workflow runs automatically every 3 hours. To trigger manually: **Actions �
 | 🟠 | Warning | Wait time ≥ 2x threshold |
 | 🔴 | Critical | Wait time ≥ 3x threshold |
 
-## 📊 Alert Details
+## Alert Details
 
 Each alert includes:
 
@@ -194,7 +194,7 @@ Each alert includes:
 - **Wait time** — hours since ticket was created
 - **Severity indicator** — color-coded based on how far past the SLA threshold
 
-## 👤 Author
+## Author
 
 **Siddharth Mohapatra**
 - Teaching Assistant, Innovation Lab - JM @Northeastern University EDGE department
