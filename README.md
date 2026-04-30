@@ -23,6 +23,8 @@ A lightweight Python automation that runs every 3 hours via GitHub Actions, chec
 
 <img width="1875" height="859" alt="image" src="https://github.com/user-attachments/assets/d7dea226-93cb-4e7b-8228-fae8b0c884a2" />
 
+<img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/243829b1-a3da-413f-afce-ddc8d7001524" />
+
 ### Sample Slack Alert
 
 ```
