@@ -15,7 +15,7 @@ As a Teaching Assistant at Northeastern University, our TA team manages **70+ st
 
 ## Solution
 
-A lightweight Python automation that runs every 3 hours via GitHub Actions, checks all open Help Scout tickets, and sends a Slack alert to the TA team whenever tickets exceed the SLA threshold — **without any manual effort**.
+A lightweight Python automation that runs every 3 hours via GitHub Actions, checks all open Help Scout tickets, and sends a Slack alert to the TA team whenever tickets exceed the SLA threshold - **without any manual effort**.
 
 ### Sample Screenshots
 
@@ -188,11 +188,11 @@ The workflow runs automatically every 3 hours. To trigger manually: **Actions �
 
 Each alert includes:
 
-- **Ticket subject** — the student's email subject line
-- **Student name** — extracted from Help Scout's primary customer field
-- **Course tag** — auto-detected from Help Scout tags (e.g., INFO5100, DADS7275, SCHM6318)
-- **Wait time** — hours since ticket was created
-- **Severity indicator** — color-coded based on how far past the SLA threshold
+- **Ticket subject** - the student's email subject line
+- **Student name** - extracted from Help Scout's primary customer field
+- **Course tag** - auto-detected from Help Scout tags (e.g., INFO5100, DADS7275, SCHM6318)
+- **Wait time** - hours since ticket was created
+- **Severity indicator** - color-coded based on how far past the SLA threshold
 
 ## Author
 
